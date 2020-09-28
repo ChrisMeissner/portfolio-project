@@ -135,3 +135,9 @@ nav a:hover {
 #project-one {
   background-image: url("../images/Chris\ Meissner\ -\ Headshot.jpg");
 }
+
+#project-two {
+  background-image: url("../images/Screen\ Shot\ 2020-09-27\ at\ 7.43.55\ PM.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
