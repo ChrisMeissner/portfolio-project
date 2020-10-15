@@ -109,6 +109,13 @@ nav a:hover {
   color: var(--primary-color)
 }
 
+.contact-links a {
+  display: flex;
+  flex: wrap;
+  flex-direction: row;
+  text-decoration: none;
+}
+
 .grid-container {
   display: grid;
   column-gap: 10px;
@@ -132,12 +139,25 @@ nav a:hover {
   grid-row: span 2;
 }
 
+.project-title {
+  color: var(--primary-color);
+  background-color: var(--secondary-color);
+}
+
 #project-one {
-  background-image: url("../images/Chris\ Meissner\ -\ Headshot.jpg");
+  background-image: url("../images/Screen\ Shot\ 2020-10-15\ at\ 9.28.32\ AM.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #project-two {
   background-image: url("../images/Screen\ Shot\ 2020-09-27\ at\ 7.43.55\ PM.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#project-three {
+  background-image: url("../images/Screen\ Shot\ 2020-10-15\ at\ 9.01.10\ AM.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
