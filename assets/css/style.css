@@ -173,6 +173,12 @@ nav a:hover {
 }
 
 #project-three {
+  background-image: url("../images/get-hitched-illustrator-logo-05.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#project-four {
   background-image: url("../images/Screen\ Shot\ 2020-10-15\ at\ 9.01.10\ AM.png");
   background-size: cover;
   background-repeat: no-repeat;
