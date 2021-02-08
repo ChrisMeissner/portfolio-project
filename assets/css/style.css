@@ -183,3 +183,9 @@ nav a:hover {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#project-five {
+  background-image: url("../images/Chris\ Meissner\ -\ Headshot.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
